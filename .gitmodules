@@ -1,0 +1,6 @@
+[submodule "HTML-Mini-Projects"]
+	path = HTML-Mini-Projects
+	url = https://github.com/Araryarch/HTMLMini
+[submodule "Kanban"]
+	path = Kanban
+	url = https://github.com/Araryarch/kanban
