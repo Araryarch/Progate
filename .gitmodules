@@ -4,3 +4,6 @@
 [submodule "Kanban"]
 	path = Kanban
 	url = https://github.com/Araryarch/kanban
+[submodule "HTML-Final-Projects"]
+	path = HTML-Final-Projects
+	url = https://github.com/Araryarch/HTMLFinal
