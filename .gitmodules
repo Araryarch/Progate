@@ -7,3 +7,6 @@
 [submodule "HTML-Final-Projects"]
 	path = HTML-Final-Projects
 	url = https://github.com/Araryarch/HTMLFinal
+[submodule "FizzBuzz"]
+	path = FizzBuzz
+	url = https://github.com/Araryarch/FizzBuzz
