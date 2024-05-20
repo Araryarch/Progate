@@ -19,3 +19,6 @@
 [submodule "Element-Dinamis-JS"]
 	path = Element-Dinamis-JS
 	url = https://github.com/Araryarch/ElementDinamis
+[submodule "JS-API"]
+	path = JS-API
+	url = https://github.com/Araryarch/JS-API
