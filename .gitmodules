@@ -13,3 +13,6 @@
 [submodule "Poke-API-1"]
 	path = Poke-API-1
 	url = https://github.com/Araryarch/PokeAPI1
+[submodule "Poke-API-2"]
+	path = Poke-API-2
+	url = https://github.com/Araryarch/PokeAPI2
