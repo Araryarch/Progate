@@ -16,3 +16,6 @@
 [submodule "Poke-API-2"]
 	path = Poke-API-2
 	url = https://github.com/Araryarch/PokeAPI2
+[submodule "Element-Dinamis-JS"]
+	path = Element-Dinamis-JS
+	url = https://github.com/Araryarch/ElementDinamis
