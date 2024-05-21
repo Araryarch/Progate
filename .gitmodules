@@ -22,3 +22,6 @@
 [submodule "JS-API"]
 	path = JS-API
 	url = https://github.com/Araryarch/JS-API
+[submodule "ToDoList-React"]
+	path = ToDoList-React
+	url = https://github.com/Araryarch/ToDoReact
